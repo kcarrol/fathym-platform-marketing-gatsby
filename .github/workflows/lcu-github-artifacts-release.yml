@@ -1,4 +1,4 @@
-name: GitHub Artifacts - Release
+name: kcarrol/fathym-platform-marketing-gatsby
 
 on:
   push:
